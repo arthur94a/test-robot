@@ -17,9 +17,9 @@
 
 ### Open project folder in terminal and run:
 ###### for open Web test
-#### robot testWeb.robot 
+#### robot TestWeb.robot 
 ###### for open Notepad test  
-#### robot testWindows.robot
+#### robot TestWindows.robot
 
 ---
 By: arthur94a
